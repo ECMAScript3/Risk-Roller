@@ -1,0 +1,25 @@
+{
+  "name": "riskroll",
+  "version": "1.0.0",
+  "description": "A dice-roll simulator for risk, automates the slowest part of endgame",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ECMAScript3/Risk-Roller"
+  },
+  "keywords": [
+    "risk",
+    "roll",
+    "dice"
+  ],
+  "author": "Shawn Aaron McAnalley",
+  "license": "MIT",
+  "dependencies": {
+    "math.js": "^1.1.43",
+    "mathjs": "^4.4.2"
+  }
+}
