@@ -3,7 +3,7 @@ var state = {
 	d: 2,
 	airfield: 0
 }
-const roll = require("roll.js");
+const roll = require("./roll.js");
 
 const readline = require('readline');
 const rl = readline.createInterface({
